@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/notes"
+                android:icon="@drawable/ic_baseline_calendar_today_24"
+                android:title="Notes" />
+            <item
+                android:id="@+id/addNote"
+                android:icon="@android:drawable/ic_input_add"
+                android:title="Add Notes" />
+            <item
+                android:id="@+id/sync"
+                android:icon="@android:drawable/ic_popup_sync"
+                android:title="Sync Notes" />
+        </menu>
+    </item>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/rating"
+                android:icon="@android:drawable/btn_star"
+                android:title="Rate App" />
+            <item
+                android:id="@+id/shareapp"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Share App" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+
+
+
+</menu>

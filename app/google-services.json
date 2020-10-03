@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252767299974",
+    "firebase_url": "https://notelite-cc393.firebaseio.com",
+    "project_id": "notelite-cc393",
+    "storage_bucket": "notelite-cc393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252767299974:android:b0585e15492efcb9f86407",
+        "android_client_info": {
+          "package_name": "com.example.notelite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252767299974-7mnlcnvhuhpfa476i3ablbeqp99ji44t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyI5IK1DP2u169y9hCTE1B4VXsbhIkW20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252767299974-7mnlcnvhuhpfa476i3ablbeqp99ji44t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
